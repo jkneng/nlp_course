@@ -1,3 +1,11 @@
-__Lecture__ (english, by [D. Talbot](https://github.com/drt7)) - [video1](https://yadi.sk/i/wL4BpzNTh5GFhQ), [video2](https://yadi.sk/i/ODTJ0t5dWWbdKQ)
+__Lecture__ by [David Talbot](https://github.com/drt7)
 
-The practice assignment details are specified in the lecture.
+[Lecture Slides](./shad-mt-lecture-2021-final.pdf)
+
+Topics:
+* Why Machine Translation is Hard
+* Noisy Channel Approach to Machine Translation
+* How Neural Machine Translation changed things
+* Current Challenges in NMT
+
+There will be no homework or seminar this week. 
