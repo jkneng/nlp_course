@@ -1,0 +1,9 @@
+{
+    "vocab_size": 8335,
+    "embedding_dim": 300,
+    "out_channels": 16,
+    "kernel_size": [2, 3, 4],
+    "dropout": 0.5,
+    "class_num": 2
+}
+  
