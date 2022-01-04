@@ -1,4 +1,4 @@
-from typing import Counter
+from collections import Counter
 import numpy
 from torchtext.data.utils import get_tokenizer
 from torch.utils.data import random_split
