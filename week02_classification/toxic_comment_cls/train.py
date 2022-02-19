@@ -1,6 +1,5 @@
 import re
 
-from torch._C import device
 from model import TextCNN, TextLSTM
 from dataset import ToxicData
 from torch.utils.data import DataLoader
